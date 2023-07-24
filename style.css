@@ -42,13 +42,15 @@ html{
   color: azure;
   background-color: #252038;
 } 
+div {
 
+}
 div img{
   margin-right: 2rem;
   width: 2.5em; 
 }
 img{
-width:50% ;
+width:200% ;
 }
 li a {
   list-style-type: none;
