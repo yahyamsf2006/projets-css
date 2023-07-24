@@ -100,3 +100,11 @@ form label{
 textarea{
   background-color: #03a9f4;
 }
+
+
+.social img {
+
+  width: 2.5em;
+  height: 100%;
+
+}
